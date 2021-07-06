@@ -42,15 +42,11 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [What is ZIL anyway?](http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html)
 
-  > The [Infocom ZIL code dump](https://github.com/historicalsource/) has kicked off a small whirlwind of news articles and blog posts. A lot of them are somewhat hazy on what ZIL is, and how it relates to MDL, Lisp, Z-code, Inform, and the rest of the Golden-Age IF ecosystem.
-
 - [Infocom Source Code and Resources](https://www.z-machine-matter.com/2019/05/infocom-source-code.html)
 
 - [ZIL and the Z-Machine // Digital Antiquarian](https://www.filfre.net/2012/01/zil-and-the-z-machine/)
 
 - [ZIL - Zork Implementation Language - History of the Language // YouTube](https://www.youtube.com/watch?v=-oPIXEn7xcE)
-
-  > Footage recorded by Jason Scott as part of his [Get Lamp interview archive](https://archive.org/details/getlamp_blank).
 
 ## YouTube Channels
 
