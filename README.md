@@ -6,7 +6,7 @@ The Z-machine is a virtual machine that was developed by Joel Berez and Marc Bla
 
 This tiny archive attempts to collect key z-machine documents.
 
-## Overview
+## Z-Machine Overview
 
 - https://en.wikipedia.org/wiki/Z-machine
 
@@ -28,7 +28,11 @@ This tiny archive attempts to collect key z-machine documents.
 
   > The "Z" of Z-machine stands for Zork, Infocom's first adventure game. Z-code files usually have names ending in .z1, .z2, .z3, .z4, .z5, .z6, .z7 or .z8 (and occasionally .dat), where the number is the version number of the Z-machine on which the file is intended to be run, as given by the first byte of the story file.
 
-  > Infocom produced six versions of the Z-machine. Files using versions 1 and 2 are very rare. Only two version 1 files are known to have been released by Infocom, and only two of version 2. The later versions had more capabilities, culminating in some graphic support in version 6.
+- [Digital Antiquarian](https://www.filfre.net/) Z-Machine articles:
+
+  - https://www.filfre.net/2019/10/new-tricks-for-an-old-z-machine-part-1-digging-the-trenches/
+  - https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-2-hacking-deeper-or-follies-of-graham-nelsons-youth/
+  - https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-3-a-renaissance-is-nigh/
 
 ## YouTube Channels
 
