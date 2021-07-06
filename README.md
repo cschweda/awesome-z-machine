@@ -48,7 +48,13 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [ZIL - Zork Implementation Language - History of the Language // YouTube](https://www.youtube.com/watch?v=-oPIXEn7xcE)
 
-## YouTube Channels
+### MDL Resources
+
+- https://mdl-language.readthedocs.io/en/latest/
+
+- [_The MDL Programming Language_ by S. W. Galley and Greg Pfister // GitHub](https://github.com/taradinoc/mdl-docs)
+
+  - [PDF Version](https://apps.dtic.mil/sti/pdfs/ADA070930.pdf)
 
 ## Tutorials
 
