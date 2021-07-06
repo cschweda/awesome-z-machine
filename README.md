@@ -6,7 +6,29 @@ The Z-machine is a virtual machine that was developed by Joel Berez and Marc Bla
 
 This tiny archive attempts to collect key z-machine documents.
 
-## Resources
+## Overview
+
+- https://en.wikipedia.org/wiki/Z-machine
+
+  > The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code or developing a compiler for each system.
+
+- [A Short History of the Z-machine](https://www.inform-fiction.org/zmachine/standards/z1point0/appd.html)
+
+  > Infocom made six main Versions of the Z-machine and several minor variant forms. These are recognisably similar but with labyrinthine differences, like different archaic dialects of the same language. (The archaeological record stops sharply in 1989 when the civilisation in question collapsed.)
+
+- [The Z-Machine Standards Document v1.1 // 24 Feb 2014](https://www.inform-fiction.org/zmachine/standards/z1point1/index.html)
+
+  > The Z-machine was created on a coffee table in Pittsburgh in 1979. It is an imaginary computer whose programs are adventure games, and is well-adapted to its task, implementing complex games remarkably compactly. They were still perhaps 100K long, too large for the memory of the home computers of their day, and the Z-machine seems to have made the first usage of virtual memory on a microcomputer. Further ahead of its time was the ability to efficiently save and restore the entire execution state.
+
+- [Z-Machine // ifwiki.org](http://www.ifwiki.org/index.php/Z-machine)
+
+  > The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files, or Z-code files), and could therefore port all its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code.
+
+  > The compiler (called Zilch) which Infocom used to produce its story files has never been released, although documentation of the language used (called ZIL, for Zork Implementation Language) is still in existence.
+
+  > The "Z" of Z-machine stands for Zork, Infocom's first adventure game. Z-code files usually have names ending in .z1, .z2, .z3, .z4, .z5, .z6, .z7 or .z8 (and occasionally .dat), where the number is the version number of the Z-machine on which the file is intended to be run, as given by the first byte of the story file.
+
+  > Infocom produced six versions of the Z-machine. Files using versions 1 and 2 are very rare. Only two version 1 files are known to have been released by Infocom, and only two of version 2. The later versions had more capabilities, culminating in some graphic support in version 6.
 
 ## YouTube Channels
 
