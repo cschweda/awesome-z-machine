@@ -38,7 +38,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 > ZIL is short for **Zork Implementation Language**, a programming language developed by Infocom and based on MDL, which itself is a version of Lisp.
 
-- https://www.ifwiki.org/index.php/ZIL
+- [IFWiki](https://www.ifwiki.org/index.php/ZIL)
 
 - [What is ZIL anyway? // Zarf Updates](http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html)
 
@@ -49,6 +49,8 @@ This tiny archive attempts to collect key z-machine documents.
 - [ZIL - Zork Implementation Language - History of the Language // YouTube](https://www.youtube.com/watch?v=-oPIXEn7xcE)
 
 ### MDL Resources
+
+> MDL (Model Development Language,or colloquially also referred to as More Datatypes than Lisp or MIT Design Language is a programming language, a descendant of the language Lisp. Its initial purpose was to provide high level language support for the Dynamic Modeling Group at Massachusetts Institute of Technology's (MIT) Project MAC. It was initially developed in 1971 on a PDP-10 computer on a time-sharing operating system named Incompatible Timesharing System (ITS). From: https://en.wikipedia.org/wiki/MDL_(programming_language)
 
 - [_The MDL Programming Language_ by S. W. Galley and Greg Pfister // GitHub](https://github.com/taradinoc/mdl-docs)
 
@@ -61,6 +63,16 @@ This tiny archive attempts to collect key z-machine documents.
 - [_A Device-Independent Graphics Manager For MDL_ by Poh Chuan Lim](https://dspace.mit.edu/bitstream/handle/1721.1/102210/10219781-MIT.pdf#page=69)
 
 - [_Graphics Programming and Monitoring_ by J.C.R. Licklider](https://apps.dtic.mil/dtic/tr/fulltext/u2/a197342.pdf)
+
+### Lisp Resources
+
+> The Lisp language is the oldest and most widely used functional language. Lisp is essentially typeless, but originally had two types of data objects: atoms and lists. Indeed, Lisp stands for “LISt Processing.” Lisp has long been a popular language for applications in artificial intelligence. From: https://www.sciencedirect.com/topics/computer-science/lisp
+
+- https://en.wikipedia.org/wiki/Lisp_(programming_language)
+
+- [Lisp Overview](https://www.tutorialspoint.com/lisp/lisp_overview.htm)
+
+- [A Brief Introduction to Lisp](https://courses.cs.vt.edu/~cs1104/TowerOfBabel/LISP/Lisp.outline.html)
 
 ## Tutorials
 
