@@ -40,9 +40,15 @@ This tiny archive attempts to collect key z-machine documents.
 
 ## Websites
 
-## Infocom General
+## Infocom
 
-### Infocom Cabinet
+### History
+
+- [The Roots of Infocom // Digital Antiquarian](https://www.filfre.net/2012/01/the-roots-of-infocom/)
+- [History of Infocom](http://www.infocom-if.org/company/company.html)
+- [Down From the Top of Its Game: The Story of Infocom (PDF)](http://web.mit.edu/6.933/www/Fall2000/infocom/infocom-paper.pdf)
+
+#### Infocom Cabinet
 
 > A collection of digitized scans from a large cache of documents related to the game publisher Infocom, Inc. of Cambridge, MA. Assembled by Steven Meretzky of Infocom.
 
@@ -50,9 +56,9 @@ This tiny archive attempts to collect key z-machine documents.
 - [Memos: 1983](https://archive.org/details/InfocomCabinetMemos1983)
 - [A Mind Forever Voyaging](https://archive.org/details/InfocomCabinetAMindForeverVoyaging)
 
-## Infocom Source
+### Source Code
 
-### Historical Source
+#### Historical Source
 
 > A collection of historical source files, for education and perusal.
 
