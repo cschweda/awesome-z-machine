@@ -88,15 +88,15 @@ This tiny archive attempts to collect key z-machine documents.
 
 > ZILF is an open-source ZIL compiler, Z-machine assembler, world model, and related tools written by Jesse McGrew. ZILF has been said to stand for either Zork Implementation Language of the Future or The ZIL Implementation You Really, Really Like. It is written in C#, and runs under Windows, or under MacOS or Linux using Mono. It takes ZIL source code and compiles it into Z-machine assembly code, which is then passed to ZAPF to make the final Z-code story file.
 
-[ZILF Home](https://foss.heptapod.net/zilf/zilf/-/wikis/home)
+- [ZILF Home](https://foss.heptapod.net/zilf/zilf/-/wikis/home)
 
-    - [0.9 Release Notes](https://foss.heptapod.net/zilf/zilf/-/wikis/Releases/0.9/Release-Notes)
+  - [0.9 Release Notes](https://foss.heptapod.net/zilf/zilf/-/wikis/Releases/0.9/Release-Notes)
 
-    - [ZILF Downloads for Linux, MacOS, and Windows](https://foss.heptapod.net/zilf/zilf/-/wikis/Releases/0.9/Downloads)
+  - [ZILF Downloads for Linux, MacOS, and Windows](https://foss.heptapod.net/zilf/zilf/-/wikis/Releases/0.9/Downloads)
 
-    - [Visual Studio Code Extension for ZIL](https://marketplace.visualstudio.com/items?itemName=zilf.zil-language)
+  - [Visual Studio Code Extension for ZIL](https://marketplace.visualstudio.com/items?itemName=zilf.zil-language)
 
-### Inform
+### Inform 6/7
 
 > Since its invention (by Graham Nelson in 1993), Inform has been used to design some hundreds of works of interactive fiction, in eight languages, reviewed in periodicals ranging in specialisation from XYZZYnews to The New York Times. It accounts for around ten thousand postings per year to Internet newsgroups. Commercially, Inform has been used as a multimedia games prototyping tool. Academically, it has turned up in syllabuses and seminars from computer science to theoretical architecture, and appears in books such as Cybertext: Perspectives on Ergodic Literature (E. J. Aarseth, Johns Hopkins Press, 1997). Having started as a revival of the then-disused Infocom adventure game format, the Z-Machine, Inform came full circle when it produced Infocom's only text game of the 1990s: Zork: The Undiscovered Underground, by Mike Berlyn and Marc Blank.
 
