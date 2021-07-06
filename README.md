@@ -1,6 +1,6 @@
 # awesome-z-machine
 
-> A curated list of awesome things related to the z-machine
+> A curated list of awesome things related to the z-machine, ZIL (Zork Implementation Language) programming, and Infocom.
 
 The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code or developing a compiler for each system.
 
@@ -33,6 +33,24 @@ This tiny archive attempts to collect key z-machine documents.
   - https://www.filfre.net/2019/10/new-tricks-for-an-old-z-machine-part-1-digging-the-trenches/
   - https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-2-hacking-deeper-or-follies-of-graham-nelsons-youth/
   - https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-3-a-renaissance-is-nigh/
+
+## ZIL Overview
+
+> ZIL is short for **Zork Implementation Language**, a programming language developed by Infocom and based on [MDL](https://en.wikipedia.org/wiki/MDL_(programming_language), which itself is a version of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language).
+
+- https://www.ifwiki.org/index.php/ZIL
+
+- [What is ZIL anyway?](http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html)
+
+> The [Infocom ZIL code dump](https://github.com/historicalsource/) has kicked off a small whirlwind of news articles and blog posts. A lot of them are somewhat hazy on what ZIL is, and how it relates to MDL, Lisp, Z-code, Inform, and the rest of the Golden-Age IF ecosystem.
+
+- [Infocom Source Code and Resources](https://www.z-machine-matter.com/2019/05/infocom-source-code.html)
+
+- [ZIL and the Z-Machine // Digital Antiquarian](https://www.filfre.net/2012/01/zil-and-the-z-machine/)
+
+- [ZIL - Zork Implementation Language - History of the Language // YouTube](https://www.youtube.com/watch?v=-oPIXEn7xcE)
+
+> Footage recorded by Jason Scott as part of his [Get Lamp interview archive](https://archive.org/details/getlamp_blank).
 
 ## YouTube Channels
 
