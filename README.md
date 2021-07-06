@@ -42,7 +42,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [What is ZIL anyway?](http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html)
 
-- [Infocom Source Code and Resources](https://www.z-machine-matter.com/2019/05/infocom-source-code.html)
+- [Infocom Source Code and Resources // Z-Machine Matter](https://www.z-machine-matter.com/2019/05/infocom-source-code.html)
 
 - [ZIL and the Z-Machine // Digital Antiquarian](https://www.filfre.net/2012/01/zil-and-the-z-machine/)
 
