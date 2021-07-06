@@ -42,7 +42,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [What is ZIL anyway?](http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html)
 
-> The [Infocom ZIL code dump](https://github.com/historicalsource/) has kicked off a small whirlwind of news articles and blog posts. A lot of them are somewhat hazy on what ZIL is, and how it relates to MDL, Lisp, Z-code, Inform, and the rest of the Golden-Age IF ecosystem.
+  > The [Infocom ZIL code dump](https://github.com/historicalsource/) has kicked off a small whirlwind of news articles and blog posts. A lot of them are somewhat hazy on what ZIL is, and how it relates to MDL, Lisp, Z-code, Inform, and the rest of the Golden-Age IF ecosystem.
 
 - [Infocom Source Code and Resources](https://www.z-machine-matter.com/2019/05/infocom-source-code.html)
 
