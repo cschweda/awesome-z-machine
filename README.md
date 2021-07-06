@@ -40,7 +40,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - https://www.ifwiki.org/index.php/ZIL
 
-- [What is ZIL anyway?](http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html)
+- [What is ZIL anyway? // Zarf Updates](http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html)
 
 - [Infocom Source Code and Resources // Z-Machine Matter](https://www.z-machine-matter.com/2019/05/infocom-source-code.html)
 
@@ -55,6 +55,12 @@ This tiny archive attempts to collect key z-machine documents.
   - [HTML Version](https://mdl-language.readthedocs.io/en/latest/)
 
   - [PDF Version](https://apps.dtic.mil/sti/pdfs/ADA070930.pdf)
+
+- [_MDL Programming Language Primer_ by Michael Dornbrook and Marc Blank](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-292.pdf)
+
+- [_A Device-Independent Graphics Manager For MDL_ by Poh Chuan Lim](https://dspace.mit.edu/bitstream/handle/1721.1/102210/10219781-MIT.pdf#page=69)
+
+- [_Graphics Programming and Monitoring_ by J.C.R. Licklider](https://apps.dtic.mil/dtic/tr/fulltext/u2/a197342.pdf)
 
 ## Tutorials
 
@@ -93,6 +99,7 @@ This tiny archive attempts to collect key z-machine documents.
   - [Starcross](https://github.com/historicalsource/starcross)
   - [Suspended](https://github.com/historicalsource/suspended)
   - [Zork Mainframe](https://github.com/historicalsource/zork)
+  - [Zork MDL](https://github.com/historicalsource/zork-mdl)
   - [Zork 1](https://github.com/historicalsource/zork1)
   - [Zork 2](https://github.com/historicalsource/zork2)
   - [Zork 3](https://github.com/historicalsource/zork3)
