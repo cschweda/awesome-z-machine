@@ -50,9 +50,9 @@ This tiny archive attempts to collect key z-machine documents.
 
 ### MDL Resources
 
-- https://mdl-language.readthedocs.io/en/latest/
-
 - [_The MDL Programming Language_ by S. W. Galley and Greg Pfister // GitHub](https://github.com/taradinoc/mdl-docs)
+
+  - [HTML Version](https://mdl-language.readthedocs.io/en/latest/)
 
   - [PDF Version](https://apps.dtic.mil/sti/pdfs/ADA070930.pdf)
 
