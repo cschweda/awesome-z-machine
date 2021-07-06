@@ -55,6 +55,7 @@ This tiny archive attempts to collect key z-machine documents.
 - [Hitchhikers Guide to the Galaxy](https://archive.org/details/InfocomCabinetHitchhikersGuide)
 - [Memos: 1983](https://archive.org/details/InfocomCabinetMemos1983)
 - [A Mind Forever Voyaging](https://archive.org/details/InfocomCabinetAMindForeverVoyaging)
+- ...more here
 
 ### Source Code
 
@@ -76,3 +77,4 @@ This tiny archive attempts to collect key z-machine documents.
   - [Bureaucracy](https://github.com/historicalsource/bureaucracy)
   - [Trinity](https://github.com/historicalsource/trinity)
   - [Stationfall](https://github.com/historicalsource/stationfall)
+  - ...more here
