@@ -36,7 +36,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 ## ZIL Overview
 
-> ZIL is short for **Zork Implementation Language**, a programming language developed by Infocom and based on [MDL](https://en.wikipedia.org/wiki/MDL_(programming_language), which itself is a version of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language).
+> ZIL is short for **Zork Implementation Language**, a programming language developed by Infocom and based on MDL, which itself is a version of Lisp.
 
 - https://www.ifwiki.org/index.php/ZIL
 
@@ -50,7 +50,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [ZIL - Zork Implementation Language - History of the Language // YouTube](https://www.youtube.com/watch?v=-oPIXEn7xcE)
 
-> Footage recorded by Jason Scott as part of his [Get Lamp interview archive](https://archive.org/details/getlamp_blank).
+  > Footage recorded by Jason Scott as part of his [Get Lamp interview archive](https://archive.org/details/getlamp_blank).
 
 ## YouTube Channels
 
