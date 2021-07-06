@@ -54,6 +54,8 @@ This tiny archive attempts to collect key z-machine documents.
 
 ### Historical Source
 
+> A collection of historical source files, for education and perusal.
+
 - https://github.com/historicalsource
 
   - [Deadline](https://github.com/historicalsource/deadline)
