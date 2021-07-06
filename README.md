@@ -40,18 +40,39 @@ This tiny archive attempts to collect key z-machine documents.
 
 ## Websites
 
-## Infocom
+## Infocom General
 
-- [Infocom Cabinet]()
+- [Infocom Cabinet](https://archive.org/details/infocomcabinet)
 
-  - [Hitchhikers Guide to the Galaxy](https://archive.org/details/InfocomCabinetHitchhikersGuide)
+> A collection of digitized scans from a large cache of documents related to the game publisher Infocom, Inc. of Cambridge, MA. Assembled by Steven Meretzky of Infocom.
 
-    > The Hitchhiker's Guide to the Galaxy is an interactive fiction video game based on the comedic science fiction series of the same name. It was designed by series creator Douglas Adams and Infocom's Steve Meretzky, and was first released in 1984 for the Apple II, Macintosh, Commodore 64, CP/M, DOS, Amiga, Atari 8-bit and Atari ST. It is Infocom's fourteenth game.
+- [Hitchhikers Guide to the Galaxy](https://archive.org/details/InfocomCabinetHitchhikersGuide)
 
-  - [Memos: 1983]()
+  > The Hitchhiker's Guide to the Galaxy is an interactive fiction video game based on the comedic science fiction series of the same name. It was designed by series creator Douglas Adams and Infocom's Steve Meretzky, and was first released in 1984 for the Apple II, Macintosh, Commodore 64, CP/M, DOS, Amiga, Atari 8-bit and Atari ST. It is Infocom's fourteenth game.
 
-    > This item is a compilation of Infocom Inc. memos during the year 1983. Please note there are joke and parody memos in the collections, so not every portrayed event happened.
+- [Memos: 1983]()
 
-  - [A Mind Forever Voyaging](https://archive.org/details/InfocomCabinetAMindForeverVoyaging)
+  > This item is a compilation of Infocom Inc. memos during the year 1983. Please note there are joke and parody memos in the collections, so not every portrayed event happened.
 
-    > AMFV was not a conventional Infocom adventure, having only a single puzzle near the end of the game. Unlike most other Infocom titles, particularly those written by Steve Meretzky, the game had a serious tone and a political theme, attributes which the company would revisit with the following year's Trinity. The game is among Infocom's most respected titles, although it was not a commercial success. It was also the first of the "Interactive Fiction Plus" line, meaning that AMFV had greater memory requirements, unlike earlier Infocom games that used a less advanced version of the company's Z-machine interpreter. It is Infocom's seventeenth game. The game was explicitly intended as a polemical critique of Ronald Reagan's political policies.
+- [A Mind Forever Voyaging](https://archive.org/details/InfocomCabinetAMindForeverVoyaging)
+
+  > AMFV was not a conventional Infocom adventure, having only a single puzzle near the end of the game. Unlike most other Infocom titles, particularly those written by Steve Meretzky, the game had a serious tone and a political theme, attributes which the company would revisit with the following year's Trinity. The game is among Infocom's most respected titles, although it was not a commercial success. It was also the first of the "Interactive Fiction Plus" line, meaning that AMFV had greater memory requirements, unlike earlier Infocom games that used a less advanced version of the company's Z-machine interpreter. It is Infocom's seventeenth game. The game was explicitly intended as a polemical critique of Ronald Reagan's political policies.
+
+## Infocom Source
+
+- https://github.com/historicalsource
+
+> A collection of historical source files, for education and perusal.
+
+    - [Deadline](https://github.com/historicalsource/deadline)
+    - [Hitchiker's Guide to the Galaxy](https://github.com/historicalsource/hitchhikersguide)
+    - [Planetfall](https://github.com/historicalsource/planetfall)
+    - [Starcross](https://github.com/historicalsource/starcross)
+    - [Suspended](https://github.com/historicalsource/suspended)
+    - [Zork Mainframe](https://github.com/historicalsource/zork)
+    - [Zork 1](https://github.com/historicalsource/zork1)
+    - [Zork 2](https://github.com/historicalsource/zork2)
+    = [Zork 3](https://github.com/historicalsource/zork3)
+    - [Bureaucracy](https://github.com/historicalsource/bureaucracy)
+    - [Trinity](https://github.com/historicalsource/trinity)
+    - [Stationfall](https://github.com/historicalsource/stationfall)
