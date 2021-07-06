@@ -121,7 +121,7 @@ This tiny archive attempts to collect key z-machine documents.
 - [The Roots of Infocom // Digital Antiquarian](https://www.filfre.net/2012/01/the-roots-of-infocom/)
 - [History of Infocom](http://www.infocom-if.org/company/company.html)
 - [Down From the Top of Its Game: The Story of Infocom (PDF)](http://web.mit.edu/6.933/www/Fall2000/infocom/infocom-paper.pdf)
-  [Infocom: The Documentary // YouTube](https://www.youtube.com/watch?v=OXNLWy7rwH4)
+- [Infocom: The Documentary // YouTube](https://www.youtube.com/watch?v=OXNLWy7rwH4)
 
 #### Infocom Cabinet
 
