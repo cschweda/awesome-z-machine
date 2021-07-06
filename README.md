@@ -50,7 +50,9 @@ This tiny archive attempts to collect key z-machine documents.
 
 ### MDL Resources
 
-> MDL (Model Development Language,or colloquially also referred to as More Datatypes than Lisp or MIT Design Language is a programming language, a descendant of the language Lisp. Its initial purpose was to provide high level language support for the Dynamic Modeling Group at Massachusetts Institute of Technology's (MIT) Project MAC. It was initially developed in 1971 on a PDP-10 computer on a time-sharing operating system named Incompatible Timesharing System (ITS). From: https://en.wikipedia.org/wiki/MDL_(programming_language)
+> MDL (Model Development Language,or colloquially also referred to as More Datatypes than Lisp or MIT Design Language is a programming language, a descendant of the language Lisp. Its initial purpose was to provide high level language support for the Dynamic Modeling Group at Massachusetts Institute of Technology's (MIT) Project MAC. It was initially developed in 1971 on a PDP-10 computer on a time-sharing operating system named Incompatible Timesharing System (ITS).
+
+> From: https://en.wikipedia.org/wiki/MDL_(programming_language)
 
 - [_The MDL Programming Language_ by S. W. Galley and Greg Pfister // GitHub](https://github.com/taradinoc/mdl-docs)
 
@@ -66,13 +68,17 @@ This tiny archive attempts to collect key z-machine documents.
 
 ### Lisp Resources
 
-> The Lisp language is the oldest and most widely used functional language. Lisp is essentially typeless, but originally had two types of data objects: atoms and lists. Indeed, Lisp stands for “LISt Processing.” Lisp has long been a popular language for applications in artificial intelligence. From: https://www.sciencedirect.com/topics/computer-science/lisp
+> The Lisp language is the oldest and most widely used functional language. Lisp is essentially typeless, but originally had two types of data objects: atoms and lists. Indeed, Lisp stands for “LISt Processing.” Lisp has long been a popular language for applications in artificial intelligence.
+
+> From: https://www.sciencedirect.com/topics/computer-science/lisp
 
 - https://en.wikipedia.org/wiki/Lisp_(programming_language)
 
 - [Lisp Overview](https://www.tutorialspoint.com/lisp/lisp_overview.htm)
 
 - [A Brief Introduction to Lisp](https://courses.cs.vt.edu/~cs1104/TowerOfBabel/LISP/Lisp.outline.html)
+
+- [Lisp // Byte Magazine, 1979] (https://archive.org/details/byte-magazine-1979-08)
 
 ## Tutorials
 
