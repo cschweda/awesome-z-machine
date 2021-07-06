@@ -78,7 +78,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [A Brief Introduction to Lisp](https://courses.cs.vt.edu/~cs1104/TowerOfBabel/LISP/Lisp.outline.html)
 
-- [Lisp // Byte Magazine, 1979] (https://archive.org/details/byte-magazine-1979-08)
+- [Lisp // Byte Magazine, 1979](https://archive.org/details/byte-magazine-1979-08)
 
 ## Tutorials
 
