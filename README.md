@@ -98,11 +98,11 @@ This tiny archive attempts to collect key z-machine documents.
 
 ### Inform 6/7
 
-> Since its invention (by Graham Nelson in 1993), Inform has been used to design some hundreds of works of interactive fiction, in eight languages, reviewed in periodicals ranging in specialisation from XYZZYnews to The New York Times. It accounts for around ten thousand postings per year to Internet newsgroups. Commercially, Inform has been used as a multimedia games prototyping tool. Academically, it has turned up in syllabuses and seminars from computer science to theoretical architecture, and appears in books such as Cybertext: Perspectives on Ergodic Literature (E. J. Aarseth, Johns Hopkins Press, 1997). Having started as a revival of the then-disused Infocom adventure game format, the Z-Machine, Inform came full circle when it produced Infocom's only text game of the 1990s: Zork: The Undiscovered Underground, by Mike Berlyn and Marc Blank.
+> Since its invention (by Graham Nelson in 1993), Inform has been used to design some hundreds of works of interactive fiction, in eight languages, reviewed in periodicals ranging in specialisation from XYZZYnews to The New York Times. It accounts for around ten thousand postings per year to Internet newsgroups. Having started as a revival of the then-disused Infocom adventure game format, the Z-Machine, Inform came full circle when it produced Infocom's only text game of the 1990s: Zork: The Undiscovered Underground, by Mike Berlyn and Marc Blank.
 
-- [Inform 6](https://www.inform-fiction.org/)
+- [Inform 6 Home](https://www.inform-fiction.org/)
 
-- [Inform 7](http://inform7.com/)
+- [Inform 7 Home](http://inform7.com/)
 
 ## Tutorials
 
