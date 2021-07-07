@@ -118,6 +118,8 @@ This tiny archive attempts to collect key z-machine documents.
 
 > Since its invention (by Graham Nelson in 1993), Inform has been used to design some hundreds of works of interactive fiction, in eight languages, reviewed in periodicals ranging in specialisation from XYZZYnews to The New York Times. It accounts for around ten thousand postings per year to Internet newsgroups. Having started as a revival of the then-disused Infocom adventure game format, the Z-Machine, Inform came full circle when it produced Infocom's only text game of the 1990s: Zork: The Undiscovered Underground, by Mike Berlyn and Marc Blank.
 
+- [https://en.wikipedia.org/wiki/Inform](https://en.wikipedia.org/wiki/Inform)
+
 - [Inform 6 Home](https://www.inform-fiction.org/)
 
 - [Inform 7 Home](http://inform7.com/)
@@ -126,21 +128,30 @@ This tiny archive attempts to collect key z-machine documents.
 
 ## Infocom
 
-### History
+- [Infocom Resources // Archive.org](https://archive.org/search.php?query=creator%3A%22Infocom%22)
+
+- [Infocom Gallery](http://gallery.guetech.org/)
+
+- [Zork and the Future of Computerized Fantasy Simulations // Byte Magazine](https://web.archive.org/web/20120502071956/http://www.csd.uwo.ca/Infocom/Articles/byte.html)
 
 - [The Roots of Infocom // Digital Antiquarian](https://www.filfre.net/2012/01/the-roots-of-infocom/)
 - [History of Infocom](http://www.infocom-if.org/company/company.html)
+
 - [Down From the Top of Its Game: The Story of Infocom (PDF)](http://web.mit.edu/6.933/www/Fall2000/infocom/infocom-paper.pdf)
-- [Infocom: The Documentary // YouTube](https://www.youtube.com/watch?v=OXNLWy7rwH4)
 
-#### Infocom Cabinet
+- [Milliways: Infocom's Unreleased Sequel to Hitchhiker's Guide to the Galaxy](https://waxy.org/2008/04/milliways_infocoms_unreleased_sequel_to_hitchhikers_guide_to_the_galax/)
 
-> A collection of digitized scans from a large cache of documents related to the game publisher Infocom, Inc. of Cambridge, MA. Assembled by Steven Meretzky of Infocom.
+- [Infocom Cabinet](https://archive.org/details/infocomcabinet)
 
-- [Hitchhikers Guide to the Galaxy](https://archive.org/details/InfocomCabinetHitchhikersGuide)
-- [Memos: 1983](https://archive.org/details/InfocomCabinetMemos1983)
-- [A Mind Forever Voyaging](https://archive.org/details/InfocomCabinetAMindForeverVoyaging)
-- ...more here
+  > A collection of digitized scans from a large cache of documents related to the game publisher Infocom, Inc. of Cambridge, MA. Assembled by Steven Meretzky of Infocom.
+
+- [Get Lamp: A Documentary about adventures in Text](http://www.getlamp.com/)
+
+  - [The Get Lamp tapes // YouTube](https://www.youtube.com/playlist?list=PL095D66011B4D43DC)
+
+  - [Get Lamp review // Z-machine-matter.com](https://www.z-machine-matter.com/2010/09/get-lamp-dvd.html)
+
+  - [Infocom: The Documentary // YouTube](https://www.youtube.com/watch?v=OXNLWy7rwH4)
 
 ### Source Code
 
