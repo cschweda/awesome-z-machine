@@ -118,9 +118,9 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [_EZIP: Z-language Interpreter Program (Expanded)_, by Joel M. Berez and Marc S. Blank](https://github.com/heasm66/ZIL-Resources/blob/master/spec-ezip.pdf)
 
-- [_ZIP: Z-language Interpreter Program (**includes XZIP**)_, by Joel M. Berez, Marc S. Blank, and P. David Leibling](https://github.com/heasm66/ZIL-Resources/blob/master/spec-xzip.pdf)
+- [_ZIP: Z-language Interpreter Program (**includes XZIP**)_, by Joel M. Berez, Marc S. Blank, and P. David Lebling](https://github.com/heasm66/ZIL-Resources/blob/master/spec-xzip.pdf)
 
-- [_ZIP: Z-language Interpreter Program (**includes YZIP**)_, by Joel M. Berez, Marc S. Blank, and P. David Leibling](https://github.com/heasm66/YZIP-Specifications/blob/master/yzip%20specifications.pdf)
+- [_ZIP: Z-language Interpreter Program (**includes YZIP**)_, by Joel M. Berez, Marc S. Blank, and P. David Lebling](https://github.com/heasm66/YZIP-Specifications/blob/master/yzip%20specifications.pdf)
 
 #### ZIL Tutorials
 
