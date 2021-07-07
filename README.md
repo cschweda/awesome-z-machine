@@ -104,6 +104,12 @@ This tiny archive attempts to collect key z-machine documents.
 
   - [GitHub Repo (including PDF)](https://github.com/ZoBoRf/InternalSecretsOfInfocomGames)
 
+- [ZILF Reference Guide // Github](https://github.com/heasm66/ZILF-Reference-Guide?fbclid=IwAR3iQdc8ju66RY0YWqH-tin7qigwXqvxwU4VuZQ6zGxBqPoAsFKhqKoHrqw)
+
+  - [PDF Version](https://github.com/heasm66/ZILF-Reference-Guide/blob/master/ZILF%20Reference%20Guide.pdf)
+
+  > The goal is to list all commands in the ZILF developing environment with a short description of the command and some short examples to illustrate how the command is used.
+
 #### ZIL Tutorials
 
 - Adam Sommerfield's _Learning Zil and Zilf_ series // YouTube
