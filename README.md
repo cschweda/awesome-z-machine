@@ -140,7 +140,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [Adam Sommerfield's _Cleaned-Up Source Collection_](https://drive.google.com/drive/folders/1BYQdh8gCsAo-kbdmf9MC0Dusskrs_gRN)
 
-> Large collection of Infocom source, test games, and ZIL libraries. If you want useful samples of ZIL in action -- this is it.
+  > Large collection of Infocom source, test games, and ZIL libraries. If you want useful samples of ZIL in action -- check this out.
 
 ### Inform 6/7
 
@@ -164,7 +164,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [Zarf's _The Obsessively Complete Infocom Catalog_](https://eblong.com/infocom/?fbclid=IwAR3Zvyw8n4uPoAh9AmIjDjnUdtd4KLutjBChA7jttjF6K4oefWgvQMJX7pM)
 
-> Definitive. If 'awesome-z-machine' could be summed up in a single link, this is it.
+  > Definitive. If 'awesome-z-machine' could be summed up in a single link, this is it.
 
 - [Infocom Resources // Archive.org](https://archive.org/search.php?query=creator%3A%22Infocom%22)
 
