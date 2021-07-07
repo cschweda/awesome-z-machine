@@ -108,7 +108,7 @@ This tiny archive attempts to collect key z-machine documents.
 
   - [PDF Version](https://github.com/heasm66/ZILF-Reference-Guide/blob/master/ZILF%20Reference%20Guide.pdf)
 
-  > The goal is to list all commands in the ZILF developing environment with a short description of the command and some short examples to illustrate how the command is used.
+    > The goal is to list all commands in the ZILF developing environment with a short description of the command and some short examples to illustrate how the command is used.
 
 #### ZIL Tutorials
 
