@@ -96,11 +96,15 @@ This tiny archive attempts to collect key z-machine documents.
 
   - [Visual Studio Code Extension for ZIL](https://marketplace.visualstudio.com/items?itemName=zilf.zil-language)
 
-#### Documentation
+#### ZIL Documentation
 
 - [_Learning ZIL: Everything You Always Wanted to Know About Writing Interactive Fiction But Couldn't Find Anyone Still Working Here to Ask_, by Steven Eric Meretzky, Infocom, Inc.](https://archive.org/details/Learning_ZIL_Steven_Eric_Meretzky_1995)
 
-#### Tutorials
+- [Internal Secrets of Infocom Games](https://ifsecrets.blogspot.com/2019/02/introduction.html)
+
+  - [GitHub Repo (including PDF)](https://github.com/ZoBoRf/InternalSecretsOfInfocomGames)
+
+#### ZIL Tutorials
 
 - Adam Sommerfield's _Learning Zil and Zilf_ series // YouTube
 
