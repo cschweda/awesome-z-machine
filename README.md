@@ -100,6 +100,20 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [_Learning ZIL: Everything You Always Wanted to Know About Writing Interactive Fiction But Couldn't Find Anyone Still Working Here to Ask_, by Steven Eric Meretzky, Infocom, Inc.](https://archive.org/details/Learning_ZIL_Steven_Eric_Meretzky_1995)
 
+#### Tutorials
+
+- Adam Sommerfield's _Learning Zil and Zilf_ series // YouTube
+
+  - [Episode 1 - Downloading and installing ZILF](https://www.youtube.com/watch?v=FBiWTVTpYDo&list=PLigB6rWYx7UxtT581XgrXLhzBK9fqyncC&index=1)
+
+  - [Episode 2 - Visual Studio Code for ZIL](https://www.youtube.com/watch?v=P-G9qbbnOnw&list=PLigB6rWYx7UxtT581XgrXLhzBK9fqyncC&index=2)
+
+  - [Episode 3 - Setting up Directory Structure](https://www.youtube.com/watch?v=05gG1Hae4VA&list=PLigB6rWYx7UxtT581XgrXLhzBK9fqyncC&index=3)
+
+  - [Episode 4 - Adam's Extra Resources](https://www.youtube.com/watch?v=8hdVhtPNW8E&list=PLigB6rWYx7UxtT581XgrXLhzBK9fqyncC&index=4)
+
+  > Extra Samples plus the [verbs_plus.zil file](https://drive.google.com/drive/folders/1xJ8FOxNC6tVLtSXWfzs_P-jFD4HNvaKz)
+
 ### Inform 6/7
 
 > Since its invention (by Graham Nelson in 1993), Inform has been used to design some hundreds of works of interactive fiction, in eight languages, reviewed in periodicals ranging in specialisation from XYZZYnews to The New York Times. It accounts for around ten thousand postings per year to Internet newsgroups. Having started as a revival of the then-disused Infocom adventure game format, the Z-Machine, Inform came full circle when it produced Infocom's only text game of the 1990s: Zork: The Undiscovered Underground, by Mike Berlyn and Marc Blank.
@@ -109,10 +123,6 @@ This tiny archive attempts to collect key z-machine documents.
 - [Inform 7 Home](http://inform7.com/)
 
 #### Documentation
-
-## Tutorials
-
-## Websites
 
 ## Infocom
 
