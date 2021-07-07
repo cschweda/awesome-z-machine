@@ -136,21 +136,35 @@ This tiny archive attempts to collect key z-machine documents.
 
     > Extra Samples plus the [verbs_plus.zil file](https://drive.google.com/drive/folders/1xJ8FOxNC6tVLtSXWfzs_P-jFD4HNvaKz)
 
+#### ZIL Source Code
+
+- [Adam Sommerfield's _Cleaned-Up Source Collection_](https://drive.google.com/drive/folders/1BYQdh8gCsAo-kbdmf9MC0Dusskrs_gRN)
+
+> Large collection of Infocom source, test games, and ZIL libraries. If you want useful samples of ZIL in action -- this is it.
+
 ### Inform 6/7
 
 > Since its invention (by Graham Nelson in 1993), Inform has been used to design some hundreds of works of interactive fiction, in eight languages, reviewed in periodicals ranging in specialisation from XYZZYnews to The New York Times. It accounts for around ten thousand postings per year to Internet newsgroups. Having started as a revival of the then-disused Infocom adventure game format, the Z-Machine, Inform came full circle when it produced Infocom's only text game of the 1990s: Zork: The Undiscovered Underground, by Mike Berlyn and Marc Blank.
 
 - [https://en.wikipedia.org/wiki/Inform](https://en.wikipedia.org/wiki/Inform)
 
+#### Inform 6
+
 - [Inform 6 Home](https://www.inform-fiction.org/)
 
-- [Inform 7 Home](http://inform7.com/)
+- ...more here
 
-#### Documentation
+#### Inform 7
+
+- [Inform 7 Home](http://inform7.com/)
 
 - ...more here
 
 ## Infocom
+
+- [Zarf's _The Obsessively Complete Infocom Catalog_](https://eblong.com/infocom/?fbclid=IwAR3Zvyw8n4uPoAh9AmIjDjnUdtd4KLutjBChA7jttjF6K4oefWgvQMJX7pM)
+
+> Definitive. If 'awesome-z-machine' could be summed up in a single link, this is it.
 
 - [Infocom Resources // Archive.org](https://archive.org/search.php?query=creator%3A%22Infocom%22)
 
