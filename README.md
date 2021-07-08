@@ -60,7 +60,7 @@ This tiny archive attempts to collect key z-machine documents.
 
   - [HTML Version](https://mdl-language.readthedocs.io/en/latest/)
 
-  - [PDF Version](https://apps.dtic.mil/sti/pdfs/ADA070930.pdf)
+  - [PDF Version (1979)](https://apps.dtic.mil/sti/pdfs/ADA070930.pdf)
 
 - [_MDL Programming Language Primer_ by Michael Dornbrook and Marc Blank](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-292.pdf)
 
@@ -80,9 +80,9 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [Lisp Overview](https://www.tutorialspoint.com/lisp/lisp_overview.htm)
 
-- [A Brief Introduction to Lisp](https://courses.cs.vt.edu/~cs1104/TowerOfBabel/LISP/Lisp.outline.html)
+- [A Brief Introduction to Lisp (1993)](https://courses.cs.vt.edu/~cs1104/TowerOfBabel/LISP/Lisp.outline.html)
 
-- [Lisp // Byte Magazine, 1979](https://archive.org/details/byte-magazine-1979-08)
+- [Lisp // Byte Magazine (1979)](https://archive.org/details/byte-magazine-1979-08)
 
 ## Tools
 
