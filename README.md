@@ -124,7 +124,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 #### ZIL Tutorials
 
-- Adam Sommerfield's _Learning Zil and Zilf_ series // YouTube
+- Adam Sommerfield's _Learning Zil and Zilf_ (2021) series // YouTube
 
   - [Behind the Scenes #001](https://www.youtube.com/watch?v=lGk-_-LG6-s)
 
@@ -146,7 +146,7 @@ This tiny archive attempts to collect key z-machine documents.
 
   > Large collection of Infocom source, test games, and ZIL libraries. If you want useful samples of ZIL in action -- check this out.
 
-- [Craverly Heights - ZIL](https://github.com/heasm66/Craverly-Heights_ZIL)
+- [Craverly Heights - ZIL (2021)](https://github.com/heasm66/Craverly-Heights_ZIL)
 
   > ZIL version of Ryan Veeder's '[_Craverly Heights_](https://ifdb.org/viewgame?id=lwydetlk1o0vc91q)'. Nicely annotated.
 
