@@ -146,6 +146,10 @@ This tiny archive attempts to collect key z-machine documents.
 
   > Large collection of Infocom source, test games, and ZIL libraries. If you want useful samples of ZIL in action -- check this out.
 
+- [Craverly Heights - ZIL](https://github.com/heasm66/Craverly-Heights_ZIL)
+
+  > ZIL version of Ryan Veeder's '[_Craverly Heights_](https://ifdb.org/viewgame?id=lwydetlk1o0vc91q)'. Annotated.
+
 ### Inform 6/7
 
 > Since its invention (by Graham Nelson in 1993), Inform has been used to design some hundreds of works of interactive fiction, in eight languages, reviewed in periodicals ranging in specialisation from XYZZYnews to The New York Times. It accounts for around ten thousand postings per year to Internet newsgroups. Having started as a revival of the then-disused Infocom adventure game format, the Z-Machine, Inform came full circle when it produced Infocom's only text game of the 1990s: Zork: The Undiscovered Underground, by Mike Berlyn and Marc Blank.
