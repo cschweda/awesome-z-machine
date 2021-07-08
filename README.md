@@ -203,6 +203,10 @@ This tiny archive attempts to collect key z-machine documents.
 
   - [Infocom: The Documentary // YouTube](https://www.youtube.com/watch?v=OXNLWy7rwH4)
 
+  - [Radio Shack TRS-80 Zork Packaging](https://www.yumpu.com/en/document/read/18909323/zorkps-manual-museum-of-computer-adventure-game-history)
+
+    > This is how I encountered Zork for the first time. In a plastic bag hanging on a metal peg on a white wall with '[Dancing Demon](https://www.mobygames.com/game/dancing-demon)' and '[Eliza](https://www.mobygames.com/game/trs-80/eliza)' in the back corner of a Radio Shack in a mall in small-town Illinois.
+
 ### Infocom Source Code
 
 #### Historical Source
