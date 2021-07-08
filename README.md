@@ -205,7 +205,9 @@ This tiny archive attempts to collect key z-machine documents.
 
   - [Radio Shack TRS-80 Zork Packaging](https://www.yumpu.com/en/document/read/18909323/zorkps-manual-museum-of-computer-adventure-game-history)
 
-    > This is how I encountered Zork for the first time. In a plastic bag hanging on a metal peg on a white wall with '[Dancing Demon](https://www.mobygames.com/game/dancing-demon)' and '[Eliza](https://www.mobygames.com/game/trs-80/eliza)' in the back corner of a Radio Shack in a mall in small-town Illinois.
+    > This is how I first encountered Zork in the early 80s -- hanging in a plastic bag alongside '[Dancing Demon](https://www.mobygames.com/game/dancing-demon)' and '[Eliza](https://www.mobygames.com/game/trs-80/eliza)' in the back 'personal computer corner' of a Radio Shack in a mall in small-town Illinois.
+
+    > I spent nearly all my weekends in that Radio Shack or in [the Aladdin's Castle](https://codewriteplay.com/2020/07/26/our-trip-to-the-last-aladdins-castle-arcade/) -- a few stores away.
 
 ### Infocom Source Code
 
