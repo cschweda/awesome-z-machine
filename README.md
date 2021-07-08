@@ -100,27 +100,27 @@ This tiny archive attempts to collect key z-machine documents.
 
 #### ZIL Documentation
 
-- [_Learning ZIL: Everything You Always Wanted to Know About Writing Interactive Fiction But Couldn't Find Anyone Still Working Here to Ask_, by Steven Eric Meretzky, Infocom, Inc.](https://archive.org/details/Learning_ZIL_Steven_Eric_Meretzky_1995)
+- [_Learning ZIL: Everything You Always Wanted to Know About Writing Interactive Fiction But Couldn't Find Anyone Still Working Here to Ask_ (1989, 1995), by Steven Eric Meretzky, Infocom, Inc.](https://archive.org/details/Learning_ZIL_Steven_Eric_Meretzky_1995)
 
-- [_ZIL_ by Marc S. Blank ](https://github.com/heasm66/ZIL-Resources/blob/master/ZILCourse.pdf)
+- [_ZIL_ by Marc S. Blank (1982) ](https://github.com/heasm66/ZIL-Resources/blob/master/ZILCourse.pdf)
 
-- [Internal Secrets of Infocom Games](https://ifsecrets.blogspot.com/2019/02/introduction.html)
+- [_ZIP: Z-language Interpreter Program_ (1982, 1984), by Joel M. Berez and Marc S. Blank](https://github.com/heasm66/ZIL-Resources/blob/master/spec-zip.pdf)
 
-  - [GitHub Repo (including PDF)](https://github.com/ZoBoRf/InternalSecretsOfInfocomGames)
+- [_EZIP: Z-language Interpreter Program (Expanded)_ (1984, 1985), by Joel M. Berez and Marc S. Blank](https://github.com/heasm66/ZIL-Resources/blob/master/spec-ezip.pdf)
 
-- [ZILF Reference Guide // Github](https://github.com/heasm66/ZILF-Reference-Guide?fbclid=IwAR3iQdc8ju66RY0YWqH-tin7qigwXqvxwU4VuZQ6zGxBqPoAsFKhqKoHrqw)
+- [_ZIP/EZIP/XZIP: Z-language Interpreter Program_ (1982, 1984, 1986), by Joel M. Berez, Marc S. Blank, and P. David Lebling](https://github.com/heasm66/ZIL-Resources/blob/master/spec-xzip.pdf)
+
+- [_ZIP/EZIP/XZIP/YZIP: Z-language Interpreter Program_ (1989), by Joel M. Berez, Marc S. Blank, and P. David Lebling](https://github.com/heasm66/YZIP-Specifications/blob/master/yzip%20specifications.pdf)
+
+- [ZILF Reference Guide (2021) // Github](https://github.com/heasm66/ZILF-Reference-Guide?fbclid=IwAR3iQdc8ju66RY0YWqH-tin7qigwXqvxwU4VuZQ6zGxBqPoAsFKhqKoHrqw)
 
   - [PDF Version](https://github.com/heasm66/ZILF-Reference-Guide/blob/master/ZILF%20Reference%20Guide.pdf)
 
     > The goal is to list all commands in the ZILF developing environment with a short description of the command and some short examples to illustrate how the command is used.
 
-- [_ZIP: Z-language Interpreter Program_, by Joel M. Berez and Marc S. Blank](https://github.com/heasm66/ZIL-Resources/blob/master/spec-zip.pdf)
+- [_Internal Secrets of Infocom Games_ (2019) by Michael Ko](https://ifsecrets.blogspot.com/2019/02/introduction.html)
 
-- [_EZIP: Z-language Interpreter Program (Expanded)_, by Joel M. Berez and Marc S. Blank](https://github.com/heasm66/ZIL-Resources/blob/master/spec-ezip.pdf)
-
-- [_ZIP/EZIP/XZIP: Z-language Interpreter Program_, by Joel M. Berez, Marc S. Blank, and P. David Lebling](https://github.com/heasm66/ZIL-Resources/blob/master/spec-xzip.pdf)
-
-- [_ZIP/EZIP/XZIP/YZIP: Z-language Interpreter Program_, by Joel M. Berez, Marc S. Blank, and P. David Lebling](https://github.com/heasm66/YZIP-Specifications/blob/master/yzip%20specifications.pdf)
+  - [GitHub Repo (including PDF)](https://github.com/ZoBoRf/InternalSecretsOfInfocomGames)
 
 #### ZIL Tutorials
 
