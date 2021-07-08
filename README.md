@@ -148,7 +148,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [Craverly Heights - ZIL](https://github.com/heasm66/Craverly-Heights_ZIL)
 
-  > ZIL version of Ryan Veeder's '[_Craverly Heights_](https://ifdb.org/viewgame?id=lwydetlk1o0vc91q)'. Annotated.
+  > ZIL version of Ryan Veeder's '[_Craverly Heights_](https://ifdb.org/viewgame?id=lwydetlk1o0vc91q)'. Nicely annotated.
 
 ### Inform
 
@@ -191,9 +191,15 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [Milliways: Infocom's Unreleased Sequel to Hitchhiker's Guide to the Galaxy](https://waxy.org/2008/04/milliways_infocoms_unreleased_sequel_to_hitchhikers_guide_to_the_galax/)
 
-- [Infocom Cabinet](https://archive.org/details/infocomcabinet)
+- [Infocom Cabinet // Archive.org](https://archive.org/details/infocomcabinet)
 
   > A collection of digitized scans from a large cache of documents related to the game publisher Infocom, Inc. of Cambridge, MA. Assembled by Steven Meretzky of Infocom.
+
+- [Long Lost ‘Zork’ Source Code Uploaded to GitHub, But Few People Understand It // Vice.com](https://www.vice.com/en/article/a3xdk8/long-lost-zork-source-code-uploaded-to-github-but-few-people-understand-it)
+
+- [Zork: The Great Inner Workings // Medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
+
+- [The History of Zork // Gamasutra.com](https://www.gamasutra.com/view/feature/1499/the_history_of_zork.php?print=1)
 
 - [Get Lamp: A Documentary about adventures in Text](http://www.getlamp.com/)
 
