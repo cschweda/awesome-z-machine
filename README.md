@@ -203,21 +203,6 @@ This tiny archive attempts to collect key z-machine documents.
 
 #### Historical Source
 
-> A collection of historical source files, for education and perusal.
+> A collection of Infocom source code files, for education and perusal.
 
 - https://github.com/historicalsource
-
-  - [Deadline](https://github.com/historicalsource/deadline)
-  - [Hitchiker's Guide to the Galaxy](https://github.com/historicalsource/hitchhikersguide)
-  - [Planetfall](https://github.com/historicalsource/planetfall)
-  - [Starcross](https://github.com/historicalsource/starcross)
-  - [Suspended](https://github.com/historicalsource/suspended)
-  - [Zork Mainframe](https://github.com/historicalsource/zork)
-  - [Zork MDL](https://github.com/historicalsource/zork-mdl)
-  - [Zork 1](https://github.com/historicalsource/zork1)
-  - [Zork 2](https://github.com/historicalsource/zork2)
-  - [Zork 3](https://github.com/historicalsource/zork3)
-  - [Bureaucracy](https://github.com/historicalsource/bureaucracy)
-  - [Trinity](https://github.com/historicalsource/trinity)
-  - [Stationfall](https://github.com/historicalsource/stationfall)
-  - ...more here
