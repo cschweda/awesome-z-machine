@@ -126,6 +126,10 @@ This tiny archive attempts to collect key z-machine documents.
 
 - Adam Sommerfield's _Learning Zil and Zilf_ series // YouTube
 
+  - [Behind the Scenes #001](https://www.youtube.com/watch?v=lGk-_-LG6-s)
+
+    > A 65 min behind-the-scenes video on VERSION and STATUS-LINE.
+
   - [Episode 1 - Downloading and installing ZILF](https://www.youtube.com/watch?v=FBiWTVTpYDo&list=PLigB6rWYx7UxtT581XgrXLhzBK9fqyncC&index=1)
 
   - [Episode 2 - Visual Studio Code for ZIL](https://www.youtube.com/watch?v=P-G9qbbnOnw&list=PLigB6rWYx7UxtT581XgrXLhzBK9fqyncC&index=2)
@@ -158,13 +162,17 @@ This tiny archive attempts to collect key z-machine documents.
 
 - [Inform 7 Home](http://inform7.com/)
 
-- ...more here
+  - [Inform 7 for Programmers // IFWiki](https://www.ifwiki.org/index.php/Inform_7_for_Programmers)
+
+    - [Alternate HTML version](http://www.plover.net/~pscion/inform7.html)
+
+    - [PDF Version](http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf)
 
 ## Infocom
 
 - [Zarf's _The Obsessively Complete Infocom Catalog_](https://eblong.com/infocom/?fbclid=IwAR3Zvyw8n4uPoAh9AmIjDjnUdtd4KLutjBChA7jttjF6K4oefWgvQMJX7pM)
 
-  > Definitive. If 'awesome-z-machine' could be summed up in a single link, this is it.
+  > If 'awesome-z-machine' could be summed up in a single link, this is it.
 
 - [Infocom Resources // Archive.org](https://archive.org/search.php?query=creator%3A%22Infocom%22)
 
