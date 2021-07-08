@@ -209,6 +209,6 @@ This tiny archive attempts to collect key z-machine documents.
 
 > A collection of Infocom source code files, for education and perusal.
 
-- https://github.com/historicalsource
+> See Zarf's ['_The Obsessively Complete Infocom Catalog_'](https://eblong.com/infocom/?fbclid=IwAR3Zvyw8n4uPoAh9AmIjDjnUdtd4KLutjBChA7jttjF6K4oefWgvQMJX7pM) for more information on these source files.
 
-  > See Zarf's ['_The Obsessively Complete Infocom Catalog_'](https://eblong.com/infocom/?fbclid=IwAR3Zvyw8n4uPoAh9AmIjDjnUdtd4KLutjBChA7jttjF6K4oefWgvQMJX7pM) for more information on these source files.
+- https://github.com/historicalsource
