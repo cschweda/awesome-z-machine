@@ -140,15 +140,19 @@ This tiny archive attempts to collect key z-machine documents.
 
     > Extra Samples plus the [verbs_plus.zil file](https://drive.google.com/drive/folders/1xJ8FOxNC6tVLtSXWfzs_P-jFD4HNvaKz)
 
-#### ZIL Source Code
+#### ZIL Source
 
 - [Adam Sommerfield's _Cleaned-Up Source Collection_](https://drive.google.com/drive/folders/1BYQdh8gCsAo-kbdmf9MC0Dusskrs_gRN)
 
   > Large collection of Infocom source, test games, and ZIL libraries. If you want useful samples of ZIL in action -- check this out.
 
-- [Craverly Heights - ZIL (2021)](https://github.com/heasm66/Craverly-Heights_ZIL)
+- [_Craverly Heights - ZIL_ (2021)](https://github.com/heasm66/Craverly-Heights_ZIL)
 
-  > ZIL version of Ryan Veeder's '[_Craverly Heights_](https://ifdb.org/viewgame?id=lwydetlk1o0vc91q)'. Nicely annotated.
+  > ZIL port of Ryan Veeder's '[_Craverly Heights_](https://ifdb.org/viewgame?id=lwydetlk1o0vc91q)'. Nicely annotated.
+
+- [_The Bean Stalker_ by Jack Welch](https://ifdb.org/viewgame?id=vchsmiok2zmrsnze)
+
+  - [ZIL source](https://github.com/dhakajack/bean)
 
 ### Inform
 
