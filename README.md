@@ -142,7 +142,7 @@ This tiny archive attempts to collect key z-machine documents.
 
 #### ZIL Source
 
-- [_Cleaned-Up Source Collection_ by Adam Sommerfield](https://drive.google.com/drive/folders/1BYQdh8gCsAo-kbdmf9MC0Dusskrs_gRN)
+- [_Cleaned-Up Source Collection_ by Adam Sommerfield](https://drive.google.com/drive/folders/1OIZuQ9hJ9PDHX5t-X2onYU4isOC0bvmZ)
 
   > Large collection of Infocom source, test games, and ZIL libraries. If you want useful samples of ZIL in action -- check this out.
 
