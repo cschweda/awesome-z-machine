@@ -176,6 +176,8 @@ This tiny archive attempts to collect key z-machine documents.
 
     - [PDF Version](http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf)
 
+  - [_Inform 7 Handbook_ by Jim Aiken](http://www.musicwords.net/if/i7hb.htm)
+
 ## Infocom
 
 - [Zarf's _The Obsessively Complete Infocom Catalog_](https://eblong.com/infocom/?fbclid=IwAR3Zvyw8n4uPoAh9AmIjDjnUdtd4KLutjBChA7jttjF6K4oefWgvQMJX7pM)
